@@ -1,0 +1,5 @@
+[
+  {"probe": "上次聊过的某个设备配置怎么改的", "expect_file": "hub-device.md", "aliases": ["device-config", "配置"]},
+  {"probe": "那个定时任务的坑在哪记着", "expect_file": "hub-service.md", "aliases": ["cron", "watchdog"]},
+  {"probe": "用户偏好的输出格式是什么", "expect_file": "MEMORY.md", "aliases": ["输出", "格式", "热区"]}
+]
